@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Web based projects](www.google.com)
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
+- 👨‍💻 All of my projects are available at [MyProjects](https://github.com/soumya3969/FSJS2.0/tree/main)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Soumya2022](https://hashnode.com/@Soumya2022)
 
