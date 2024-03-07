@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/soumya3969" target="blank"><img src="https://img.shields.io/twitter/follow/soumya3969?logo=twitter&style=for-the-badge" alt="soumya3969" /></a> </p>
 
-- 🔭 I’m currently working on [Ineuron(Intern)](www.google.com)
+- 🔭 I’m currently doing Internship From [JSpiders](https://jspiders.com/)
 
-- 🌱 I’m currently learning **HTML,CSS,JS,REACT**
+- 🌱 I’m currently learning **REACT,Node & ExpressJ s**
 
 - 👯 I’m looking to collaborate on [Web Development & Designing](www.google.com)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Soumya2022](https://hashnode.com/@Soumya2022)
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **srmhnt2001@gmail.com**
 
