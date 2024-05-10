@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing Internship From [JSpiders](https://jspiders.com/)
 
-- 🌱 I’m currently learning **REACT,Node & ExpressJ s**
+- 🌱 I’m currently learning **REACT,Node, Express Js and MongoDB**
 
 - 👯 I’m looking to collaborate on [Web Development & Designing](www.google.com)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **srmhnt2001@gmail.com**
 
-- 📄 Know about my experiences [www.google.com](www.google.com)
+- 📄 Know about my experiences [🚀](www.google.com)
 
 - ⚡ Fun fact **I code when I feel Bored**
 
