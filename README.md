@@ -99,7 +99,7 @@ const soumya = {
 
 <p align="center">
   <a href="https://github.com/soumya3969">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya3969&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=soumya3969&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -113,7 +113,7 @@ const soumya = {
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/soumya3969">
-    <img src="https://github-profile-trophy.vercel.app/?username=soumya3969&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=soumya3969&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
