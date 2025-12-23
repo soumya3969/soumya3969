@@ -4,14 +4,14 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/soumya3969">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB+Enthusiast+%F0%9F%9A%80;Building+Digital+Experiences+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+PostgreSQL+Enthusiast+%F0%9F%9A%80;Building+Digital+Experiences+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumya3969&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <a href="https://twitter.com/soumya3969"><img src="https://img.shields.io/twitter/follow/soumya3969?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1a1a2e" alt="Twitter" /></a>
+  <a href="https://twitter.com/arjun_soumya"><img src="https://img.shields.io/twitter/follow/arjun_soumya?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1a1a2e" alt="Twitter" /></a>
   <a href="https://github.com/soumya3969?tab=followers"><img src="https://img.shields.io/github/followers/soumya3969?logo=github&style=for-the-badge&color=6366f1&labelColor=1a1a2e" alt="GitHub Followers" /></a>
 </p>
 
