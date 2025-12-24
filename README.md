@@ -28,8 +28,8 @@ const soumya = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
     currentFocus: "Full Stack Development",
-    learning: ["React", "Node.js", "Express", "MongoDB"],
-    askMeAbout: ["Web Dev", "JavaScript", "React", "UI/UX"],
+    learning: ["Next.js", "Node.js", "Postgres", "MongoDB"],
+    askMeAbout: ["React", "JavaScript", "Express", "UI/UX"],
     funFact: "I code when I'm bored 🎮➡️💻"
 };
 ```
